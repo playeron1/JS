@@ -11,7 +11,7 @@ const a = document.getElementById('box3');
 // anime1[1].style.width = "70%";
 // anime1[1].style.padding = '10px 10px';
 // anime1[1].style.borderRadius = '20px';
-// anime1[1].style.margin = '0 auto';
+anime1[1].style.margin = '0 auto';
 anime1[1].style.cssText = 'background:lightgreen;border:2px solid black;width:70%;padding: 10px 10px;border-radius:10px;font-size:20px;font-family: arial;margin:0 auto;text-align: center';
 const b = document.getElementsByName('message');
 console.log(b);
