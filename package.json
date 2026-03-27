@@ -1,0 +1,15 @@
+{
+  "name": "react",
+  "version": "19.2.4",
+  "description": "an e-commerce web app using react library",
+  "license": "ISC",
+  "author": "",
+  "type": "--experimental-modules",
+  "main": "app.js",
+  "scripts": {
+    "test": "selenium"
+  },
+  "dependencies": {
+    "react": "^19.2.4"
+  }
+}
